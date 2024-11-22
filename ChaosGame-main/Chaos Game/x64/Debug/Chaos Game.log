@@ -1,0 +1,22 @@
+﻿  ChaosGame.cpp
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,73): warning C4244:         with
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,73): warning C4244:         [
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,73): warning C4244:             T=float
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,73): warning C4244:         ]
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,52): warning C4244:         with
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,52): warning C4244:         [
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,52): warning C4244:             T=float
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(60,52): warning C4244:         ]
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,71): warning C4244:         with
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,71): warning C4244:         [
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,71): warning C4244:             T=float
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,71): warning C4244:         ]
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,50): warning C4244:         with
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,50): warning C4244:         [
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,50): warning C4244:             T=float
+C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\code\ChaosGame.cpp(64,50): warning C4244:         ]
+  Chaos Game.vcxproj -> C:\Users\robee\Downloads\Chaos-Game-main\ChaosGame-main\x64\Debug\Chaos Game.exe
