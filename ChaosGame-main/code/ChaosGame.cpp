@@ -86,6 +86,21 @@ int main()
 		    rect.setFillColor(Color::Blue);
 		    window.draw(rect);
 		}
+		if (points.size() > 0)
+		{
+			for (int i = 0; i < points.size(); i++)
+			{
+				RectangleShape rect2(Vector2f(10, 10));
+				rect2.setPosition(Vector2f(points[i].x - 5, points[i].y - 5));
+				rect2.setFillColor(Color::Blue);
+				window.draw(rect2);
+			}
+		}
+		window.draw(text);
+		if (vertices.size() == 3)
+		{
+			window.draw(text2);
+		}
 		window.display();
 	}
 }
