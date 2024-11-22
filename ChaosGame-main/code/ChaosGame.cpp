@@ -19,8 +19,24 @@ int main()
 	vector<Vector2f> vertices;
 	vector<Vector2f> points;
 
+
 	while (window.isOpen())
 	{
+
+		Font font;
+		font.loadFromFile("arial.ttf");
+		Text text;
+		Text text2;
+		text.setFont(font);
+		text.setString("Make 3 points for triangle");
+		text.setCharacterSize(24);
+		text.setFillColor(Color::Red);
+		text2.setFont(font);
+		text2.setString("point 4th time to start algorithm");
+		text2.setCharacterSize(24);
+		text2.setFillColor(Color::Red);
+		text2.setPosition(0, 25);
+		Event event;
 		/*
 		****************************************
 		Handle the players input
